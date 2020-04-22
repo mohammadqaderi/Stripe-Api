@@ -1,0 +1,8 @@
+First Step is: prepare the entire data of the order.
+Second Step is: prepare the logic of stripe script and bind 
+the information like published key and total amount of the order 
+with the script button amount attribute and other data.
+
+important note: you need to have an account on stripe and it's free.
+then you need to go to the developers tap and select api and then,
+you can get your secret and published key from there.
